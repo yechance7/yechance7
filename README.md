@@ -13,8 +13,8 @@ Towards a specialist, I just keep rocking day by day.
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **External Activity** | 2023.11~2024.4 | NAVER Connect boostcamp AI Tech | **[NAVER CONNECT](https://www.connect.or.kr/)** |
-| **Education** | 2019.3~  | Majored in  Applied Statistics and Data Science, minored in business administration| **[University of Yonsei](https://www.yonsei.ac.kr/sc/)** |
+| **External Activity** | 2023.11~2024.04 | NAVER Connect boostcamp AI Tech | **[NAVER CONNECT](https://www.connect.or.kr/)** |
+| **Education** | 2019.03~  | Majored in  Applied Statistics and Data Science, minored in business administration| **[University of Yonsei](https://www.yonsei.ac.kr/sc/)** |
 
 
 ### Activities
