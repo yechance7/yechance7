@@ -1,5 +1,5 @@
 ### Yechan kim
-Hi~ I'm Yechan kim enjoying AI field.  
+Hi~ I'm Yechan kim.  
 I'm interested in AI-based services for users' satisfaction these days.  
 
 ### Skills
