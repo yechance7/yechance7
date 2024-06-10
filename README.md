@@ -5,8 +5,8 @@ I'm interested in AI-based services for users' satisfaction these days.
 ### Skills
 * Language: Python, R, SQL
 * AI/ML: Pytorch, Scikit-Learn, Wandb
-* Data Analysis: Numpy/Pandas, Matplotlib, Seaborn, Selenium/BS4, Google Data Studio
-* Serving: Docker, Streamlit
+* Data Analysis: Numpy/Pandas, Matplotlib, Seaborn, Selenium/BS4
+* Serving: Docker, Streamlit, fastapi, airflow
 
 ### History
 
