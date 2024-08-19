@@ -1,6 +1,5 @@
 ### Yechan kim
 Hi~ I'm Yechan kim.  
-I'm interested in AI-based services for users' satisfaction these days.  
 
 ### Skills
 * Language: Python, R, SQL
