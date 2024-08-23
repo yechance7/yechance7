@@ -1,5 +1,5 @@
 ### Yechan kim
-Hi~ I'm Yechan kim.  
+Data Enginner
 
 ### Skills
 * Language: Python, R, SQL
