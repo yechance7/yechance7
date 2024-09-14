@@ -1,12 +1,6 @@
 ### Yechan kim
 
 
-### Skills
-* Language: Python, R, SQL
-* AI/ML: Pytorch, Scikit-Learn, Wandb
-* Data Analysis: Numpy/Pandas, Matplotlib, Seaborn, Selenium/BS4
-* Serving: Docker, Streamlit, Fastapi, Airflow
-
 ### History
 
 | **Type** | **Date** | **Contents** | **Organization** |
