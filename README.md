@@ -3,7 +3,7 @@
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/iamzieun">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamzieun&hide_title=true&show_icons=true&include_all_commits=true&theme=nord&rank_icon=github"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yechance7&hide_title=true&show_icons=true&include_all_commits=true&theme=nord&rank_icon=github"/>
   </a>
 </p>
 
@@ -11,6 +11,6 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/iamzieun">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamzieun&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=jupyter%20notebook" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yechance7&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=jupyter%20notebook" />
   </a>
 </p>
