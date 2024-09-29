@@ -7,10 +7,9 @@
   </a>
 </p>
 
-</p>
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/yechance7">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yechance7&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=jupyter%20notebook" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yechance7&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=jupyter%20notebook" />
   </a>
 </p>
