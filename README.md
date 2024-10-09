@@ -1,9 +1,10 @@
 ### Yechan kim
 
-<h3 align="center">💡 Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/yechance7">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yechance7&hide_title=true&show_icons=true&include_all_commits=true&theme=nord&rank_icon=github"/>
-  </a>
-</p>
-
+### 📊 💡 Git Stats 💡
+<div align="center">
+<a href='https://github.com/sunghj1118/github-stats-transparent'>
+        
+![Stats Overview](https://raw.githubusercontent.com/yechance7/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/yechance7/github-stats-transparent/output/generated/languages.svg)
+</a>
+</div>
